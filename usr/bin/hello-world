@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "Hello World."
+echo
+echo "By @Hayao0819（すかさず宣伝）"
