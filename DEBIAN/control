@@ -1,9 +1,8 @@
 Package: hello-world
 Version: 1.0.0
-Maintainer: Yamada Hayao <shun819.mail@gmail.com>
 Section: utils
 Priority: optional
 Architecture: all
-Depends:
+Maintainer: Yamada Hayao <shun819.mail@gmail.com>
 Origin: SereneLinux
 Description: Hello World.
