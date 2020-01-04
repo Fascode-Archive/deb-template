@@ -1,0 +1,5 @@
+PACKAGE (1.00) stable; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- MAINTAINER <shun819.mail@gmail.com>  Sat, 04 Jan 2020 11:20:48 +0900
